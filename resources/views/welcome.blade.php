@@ -20,9 +20,9 @@
 
   <!-- Header -->
   <div class="top">
-    <img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">
+    <img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" alt="Avatar">
     <div>
-      <p>Ross Edlin</p>
+      <p>Abdur Rahman Isha</p>
       <small>Online</small>
     </div>
   </div>
@@ -31,7 +31,7 @@
   <!-- Chat -->
   <div class="messages">
     <div class="left message">
-      <img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">
+      <img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" alt="Avatar">
       <p>Start chatting with Chat GPT AI below!!</p>
     </div>
   </div>
@@ -78,12 +78,12 @@
       //Populate sending message
       $(".messages > .message").last().after('<div class="right message">' +
         '<p>' + $("form #message").val() + '</p>' +
-        '<img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">' +
+        '<img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" alt="Avatar">' +
         '</div>');
 
       //Populate receiving message
       $(".messages > .message").last().after('<div class="left message">' +
-        '<img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">' +
+        '<img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" alt="Avatar">' +
         '<p>' + res + '</p>' +
         '</div>');
 
