@@ -20,7 +20,7 @@
 
   <!-- Header -->
   <div class="top">
-    <img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" alt="Avatar">
+    <img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" style="height: 50px; width:50px; object-fit:cover;" alt="Avatar">
     <div>
       <p>Abdur Rahman Isha</p>
       <small>Online</small>
@@ -31,7 +31,7 @@
   <!-- Chat -->
   <div class="messages">
     <div class="left message">
-      <img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" alt="Avatar">
+      <img src="https://appupnext.com/media/about/20241229052528-appupnext.jpg" style="height: 50px; width:50px; object-fit:cover;" alt="Avatar">
       <p>Start chatting with Chat GPT AI below!!</p>
     </div>
   </div>
